@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<myData>
+<class>GraphLinksModel</class>
+<modelData>
+<position>-963.0999552408853 -528.282322186654</position>
+</modelData>
+<nodeDataArray>
+<Name>Payment service</Name>
+<Type>&lt;&lt;资源&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>ExternalOrganization</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#f4d9ce</fill>
+<stroke>#CDB7B5</stroke>
+<strokeWidth>2</strokeWidth>
+<font>bold  10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-4</key>
+<loc>-400 -90</loc>
+<size>85 31</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>Ant insurance</Name>
+<Type>&lt;&lt;角色作用域&gt;&gt;</Type>
+<minSize>
+<class>go.Size</class>
+<width>20</width>
+<height>20</height>
+</minSize>
+<fill>#ffffff</fill>
+<isGroup>true</isGroup>
+<category>OfNodes</category>
+<stroke>gray</stroke>
+<strokeWidth>2</strokeWidth>
+<font>bold  12pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-15</key>
+<Annotation></Annotation>
+</nodeDataArray>
+<nodeDataArray>
+<Name>Guarantee mechanism provided for users to reduce the loss</Name>
+<Type>&lt;&lt;功能性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Pentagon</figure>
+<nodeType>target</nodeType>
+<fill>#8FBC8F</fill>
+<stroke>#2E8B57</stroke>
+<strokeWidth>2</strokeWidth>
+<font>bold  10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-16</key>
+<loc>-403 32</loc>
+<group>-15</group>
+<Operation>undefined</Operation>
+<Object>undefined</Object>
+<size>224 84</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>Provide insurance purchase</Name>
+<Type>&lt;&lt;可操作性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>CreateRequest</figure>
+<nodeType>target</nodeType>
+<fill>#c0d9a2</fill>
+<stroke>#8FBC8F</stroke>
+<strokeWidth>2</strokeWidth>
+<font>bold  10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-17</key>
+<loc>-503 212</loc>
+<group>-15</group>
+<size>114 44</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>Commissioned the insurance company</Name>
+<Type>&lt;&lt;可操作性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>CreateRequest</figure>
+<nodeType>target</nodeType>
+<fill>#c0d9a2</fill>
+<stroke>#8FBC8F</stroke>
+<strokeWidth>2</strokeWidth>
+<font>bold  10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-18</key>
+<loc>-322.5 212</loc>
+<group>-15</group>
+<size>116 45</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>Insurance company</Name>
+<Type>&lt;&lt;角色&gt;&gt;</Type>
+<Annotation></Annotation>
+<minSize>
+<class>go.Size</class>
+<width>20</width>
+<height>20</height>
+</minSize>
+<figure>Actor</figure>
+<width>50</width>
+<height>70</height>
+<nodeType>target</nodeType>
+<fill>#eac49e</fill>
+<stroke>#CDAA7D</stroke>
+<strokeWidth>2</strokeWidth>
+<font>bold  10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-19</key>
+<loc>-606 280</loc>
+<size>113 74</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>Insurance data</Name>
+<Type>&lt;&lt;资源&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>ExternalOrganization</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#f4d9ce</fill>
+<stroke>#CDB7B5</stroke>
+<strokeWidth>2</strokeWidth>
+<font>bold  10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-21</key>
+<loc>-492 -89</loc>
+<size>78 32</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>Alipay</Name>
+<Type>&lt;&lt;角色&gt;&gt;</Type>
+<Annotation></Annotation>
+<minSize>
+<class>go.Size</class>
+<width>20</width>
+<height>20</height>
+</minSize>
+<figure>Actor</figure>
+<width>50</width>
+<height>70</height>
+<nodeType>target</nodeType>
+<fill>#eac49e</fill>
+<stroke>#CDAA7D</stroke>
+<strokeWidth>2</strokeWidth>
+<font>bold  12pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-22</key>
+<loc>-290 -90</loc>
+<size>83 47</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>Insurance service</Name>
+<Type>&lt;&lt;资源&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>ExternalOrganization</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#f4d9ce</fill>
+<stroke>#CDB7B5</stroke>
+<strokeWidth>2</strokeWidth>
+<font>bold  10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-23</key>
+<loc>-322.5 280</loc>
+<size>107 32</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>User</Name>
+<Type>&lt;&lt;角色作用域&gt;&gt;</Type>
+<minSize>
+<class>go.Size</class>
+<width>20</width>
+<height>20</height>
+</minSize>
+<fill>#ffffff</fill>
+<isGroup>true</isGroup>
+<category>OfNodes</category>
+<stroke>gray</stroke>
+<strokeWidth>2</strokeWidth>
+<font>bold  12pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-7</key>
+<Annotation></Annotation>
+</nodeDataArray>
+<nodeDataArray>
+<Name>Reduce loss</Name>
+<Type>&lt;&lt;功能性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Pentagon</figure>
+<nodeType>target</nodeType>
+<fill>#8FBC8F</fill>
+<stroke>#2E8B57</stroke>
+<strokeWidth>2</strokeWidth>
+<font>bold  10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-1</key>
+<loc>-412 -453</loc>
+<group>-7</group>
+<Operation>undefined</Operation>
+<Object>undefined</Object>
+<size>114 35</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>Organize insurance bought online</Name>
+<Type>&lt;&lt;可操作性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>CreateRequest</figure>
+<nodeType>target</nodeType>
+<fill>#c0d9a2</fill>
+<stroke>#8FBC8F</stroke>
+<strokeWidth>2</strokeWidth>
+<font>bold  10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-3</key>
+<loc>-492 -310</loc>
+<group>-7</group>
+<size>120 46</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>Organize insurance bought offline</Name>
+<Type>&lt;&lt;可操作性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>CreateRequest</figure>
+<nodeType>target</nodeType>
+<fill>#c0d9a2</fill>
+<stroke>#8FBC8F</stroke>
+<strokeWidth>2</strokeWidth>
+<font>bold  10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-8</key>
+<loc>-332 -310</loc>
+<group>-7</group>
+<size>120 46</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>Choose insurance online</Name>
+<Type>&lt;&lt;可操作性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>CreateRequest</figure>
+<nodeType>target</nodeType>
+<fill>#c0d9a2</fill>
+<stroke>#8FBC8F</stroke>
+<strokeWidth>2</strokeWidth>
+<font>bold  10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-9</key>
+<loc>-612 -230</loc>
+<group>-7</group>
+<size>97 44</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>Buy insurance online</Name>
+<Type>&lt;&lt;可操作性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>CreateRequest</figure>
+<nodeType>target</nodeType>
+<fill>#c0d9a2</fill>
+<stroke>#8FBC8F</stroke>
+<strokeWidth>2</strokeWidth>
+<font>bold  10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-10</key>
+<loc>-492 -230</loc>
+<group>-7</group>
+<size>89 43</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>Pay by Alipay</Name>
+<Type>&lt;&lt;可操作性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>CreateRequest</figure>
+<nodeType>target</nodeType>
+<fill>#c0d9a2</fill>
+<stroke>#8FBC8F</stroke>
+<strokeWidth>2</strokeWidth>
+<font>bold  10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-11</key>
+<loc>-442 -160</loc>
+<group>-7</group>
+<size>62 34</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>Insurance bought to reduce loss</Name>
+<Type>&lt;&lt;功能性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Pentagon</figure>
+<nodeType>target</nodeType>
+<fill>#8FBC8F</fill>
+<stroke>#2E8B57</stroke>
+<strokeWidth>2</strokeWidth>
+<font>bold  10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-24</key>
+<loc>-412 -383</loc>
+<group>-7</group>
+<Operation>undefined</Operation>
+<Object>undefined</Object>
+<size>109 73</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>Convenient payment</Name>
+<Type>&lt;&lt;非功能性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>LoopLimit</figure>
+<nodeType>target</nodeType>
+<fill>rgb(224,228,204)</fill>
+<stroke>rgb(184,188,164)</stroke>
+<strokeWidth>2</strokeWidth>
+<font>bold  10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-2</key>
+<loc>-592 -160</loc>
+<group>-7</group>
+<Degree></Degree>
+<NFR Type></NFR Type>
+<size>76 43</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>Pay for insurance online</Name>
+<Type>&lt;&lt;可操作性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>CreateRequest</figure>
+<nodeType>target</nodeType>
+<fill>#c0d9a2</fill>
+<stroke>#8FBC8F</stroke>
+<strokeWidth>2</strokeWidth>
+<font>bold  10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-20</key>
+<loc>-362 -230</loc>
+<group>-7</group>
+<size>96 41</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>Pay by credit card</Name>
+<Type>&lt;&lt;可操作性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>CreateRequest</figure>
+<nodeType>target</nodeType>
+<fill>#c0d9a2</fill>
+<stroke>#8FBC8F</stroke>
+<strokeWidth>2</strokeWidth>
+<font>bold  10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-25</key>
+<loc>-362 -160</loc>
+<group>-7</group>
+<size>65 33</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>Pay by other means</Name>
+<Type>&lt;&lt;可操作性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>CreateRequest</figure>
+<nodeType>target</nodeType>
+<fill>#c0d9a2</fill>
+<stroke>#8FBC8F</stroke>
+<strokeWidth>2</strokeWidth>
+<font>bold  10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-26</key>
+<loc>-282 -160</loc>
+<group>-7</group>
+<size>73 32</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>Insurance service provided to reduce loss</Name>
+<Type>&lt;&lt;功能性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Pentagon</figure>
+<nodeType>target</nodeType>
+<fill>#8FBC8F</fill>
+<stroke>#2E8B57</stroke>
+<strokeWidth>2</strokeWidth>
+<font>bold  10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-27</key>
+<loc>-403 132</loc>
+<group>-15</group>
+<Operation></Operation>
+<Object></Object>
+<size>165 75</size>
+</nodeDataArray>
+<linkDataArray>
+<from>-4</from>
+<to>-22</to>
+<points>-357.5</points>
+<points>-90</points>
+<points>-347.5</points>
+<points>-90</points>
+<points>-344.5</points>
+<points>-90</points>
+<points>-344.5</points>
+<points>-90</points>
+<points>-341.5</points>
+<points>-90</points>
+<points>-331.5</points>
+<points>-90</points>
+</linkDataArray>
+<linkDataArray>
+<from>-21</from>
+<to>-17</to>
+<points>-531</points>
+<points>-89</points>
+<points>-541</points>
+<points>-89</points>
+<points>-540</points>
+<points>-89</points>
+<points>-540</points>
+<points>-89</points>
+<points>-616.65625</points>
+<points>-89</points>
+<points>-616.65625</points>
+<points>212</points>
+<points>-570</points>
+<points>212</points>
+<points>-560</points>
+<points>212</points>
+</linkDataArray>
+<linkDataArray>
+<from>-18</from>
+<to>-17</to>
+<points>-380.5</points>
+<points>212</points>
+<points>-390.5</points>
+<points>212</points>
+<points>-413.25</points>
+<points>212</points>
+<points>-413.25</points>
+<points>212</points>
+<points>-436</points>
+<points>212</points>
+<points>-446</points>
+<points>212</points>
+</linkDataArray>
+<linkDataArray>
+<from>-23</from>
+<to>-19</to>
+<points>-376</points>
+<points>280</points>
+<points>-386</points>
+<points>280</points>
+<points>-462.75</points>
+<points>280</points>
+<points>-462.75</points>
+<points>280</points>
+<points>-539.5</points>
+<points>280</points>
+<points>-549.5</points>
+<points>280</points>
+</linkDataArray>
+<linkDataArray>
+<points>-412</points>
+<points>-438.65121959281333</points>
+<points>-412</points>
+<points>-428.65121959281333</points>
+<points>-412</points>
+<points>-428.65121959281333</points>
+<points>-412</points>
+<points>-429.5</points>
+<points>-412</points>
+<points>-429.5</points>
+<points>-412</points>
+<points>-419.5</points>
+<toArrow>Circle</toArrow>
+<Linktype>AND</Linktype>
+<from>-1</from>
+<to>-24</to>
+</linkDataArray>
+<linkDataArray>
+<points>-357.5</points>
+<points>-383</points>
+<points>-347.5</points>
+<points>-383</points>
+<points>-332</points>
+<points>-383</points>
+<points>-332</points>
+<points>-363</points>
+<points>-332</points>
+<points>-343</points>
+<points>-332</points>
+<points>-333</points>
+<toArrow>Circle</toArrow>
+<toArrowFill>Transparent</toArrowFill>
+<Linktype>OR</Linktype>
+<from>-24</from>
+<to>-8</to>
+</linkDataArray>
+<linkDataArray>
+<points>-458.50981824683413</points>
+<points>-383</points>
+<points>-468.50981824683413</points>
+<points>-383</points>
+<points>-492</points>
+<points>-383</points>
+<points>-492</points>
+<points>-363</points>
+<points>-492</points>
+<points>-343</points>
+<points>-492</points>
+<points>-333</points>
+<toArrow>Circle</toArrow>
+<toArrowFill>Transparent</toArrowFill>
+<Linktype>OR</Linktype>
+<from>-24</from>
+<to>-3</to>
+</linkDataArray>
+<linkDataArray>
+<points>-492</points>
+<points>-287</points>
+<points>-492</points>
+<points>-277</points>
+<points>-492</points>
+<points>-269.25</points>
+<points>-492</points>
+<points>-269.25</points>
+<points>-492</points>
+<points>-261.5</points>
+<points>-492</points>
+<points>-251.5</points>
+<toArrow>Circle</toArrow>
+<Linktype>AND</Linktype>
+<from>-3</from>
+<to>-10</to>
+</linkDataArray>
+<linkDataArray>
+<points>-432</points>
+<points>-310</points>
+<points>-422</points>
+<points>-310</points>
+<points>-420</points>
+<points>-310</points>
+<points>-420</points>
+<points>-276</points>
+<points>-362</points>
+<points>-276</points>
+<points>-362</points>
+<points>-260.5</points>
+<points>-362</points>
+<points>-250.5</points>
+<toArrow>Circle</toArrow>
+<Linktype>AND</Linktype>
+<from>-3</from>
+<to>-20</to>
+</linkDataArray>
+<linkDataArray>
+<points>-552</points>
+<points>-310</points>
+<points>-562</points>
+<points>-310</points>
+<points>-562</points>
+<points>-274</points>
+<points>-612</points>
+<points>-274</points>
+<points>-612</points>
+<points>-262</points>
+<points>-612</points>
+<points>-252</points>
+<toArrow>Circle</toArrow>
+<Linktype>AND</Linktype>
+<from>-3</from>
+<to>-9</to>
+</linkDataArray>
+<linkDataArray>
+<points>-536.5</points>
+<points>-230</points>
+<points>-546.5</points>
+<points>-230</points>
+<points>-550</points>
+<points>-230</points>
+<points>-550</points>
+<points>-230</points>
+<points>-553.5</points>
+<points>-230</points>
+<points>-563.5</points>
+<points>-230</points>
+<toArrow>SidewaysV</toArrow>
+<Linktype>依赖</Linktype>
+<from>-10</from>
+<to>-9</to>
+</linkDataArray>
+<linkDataArray>
+<points>-410</points>
+<points>-230</points>
+<points>-420</points>
+<points>-230</points>
+<points>-428.75</points>
+<points>-230</points>
+<points>-428.75</points>
+<points>-230</points>
+<points>-437.5</points>
+<points>-230</points>
+<points>-447.5</points>
+<points>-230</points>
+<toArrow>SidewaysV</toArrow>
+<Linktype>依赖</Linktype>
+<from>-20</from>
+<to>-10</to>
+</linkDataArray>
+<linkDataArray>
+<points>-362</points>
+<points>-209.5</points>
+<points>-362</points>
+<points>-199.5</points>
+<points>-362</points>
+<points>-192.75</points>
+<points>-282</points>
+<points>-192.75</points>
+<points>-282</points>
+<points>-186</points>
+<points>-282</points>
+<points>-176</points>
+<toArrow>Circle</toArrow>
+<toArrowFill>Transparent</toArrowFill>
+<Linktype>OR</Linktype>
+<from>-20</from>
+<to>-26</to>
+</linkDataArray>
+<linkDataArray>
+<points>-362</points>
+<points>-209.5</points>
+<points>-362</points>
+<points>-199.5</points>
+<points>-362</points>
+<points>-193</points>
+<points>-362</points>
+<points>-193</points>
+<points>-362</points>
+<points>-186.5</points>
+<points>-362</points>
+<points>-176.5</points>
+<toArrow>Circle</toArrow>
+<toArrowFill>Transparent</toArrowFill>
+<Linktype>OR</Linktype>
+<from>-20</from>
+<to>-25</to>
+</linkDataArray>
+<linkDataArray>
+<points>-362</points>
+<points>-209.5</points>
+<points>-362</points>
+<points>-199.5</points>
+<points>-362</points>
+<points>-193.25</points>
+<points>-442</points>
+<points>-193.25</points>
+<points>-442</points>
+<points>-187</points>
+<points>-442</points>
+<points>-177</points>
+<toArrow>Circle</toArrow>
+<toArrowFill>Transparent</toArrowFill>
+<Linktype>OR</Linktype>
+<from>-20</from>
+<to>-11</to>
+</linkDataArray>
+<linkDataArray>
+<points>-473</points>
+<points>-160</points>
+<points>-483</points>
+<points>-160</points>
+<points>-513.5</points>
+<points>-160</points>
+<points>-513.5</points>
+<points>-160</points>
+<points>-544</points>
+<points>-160</points>
+<points>-554</points>
+<points>-160</points>
+<toArrow>DoubleFeathers</toArrow>
+<Linktype>促进</Linktype>
+<from>-11</from>
+<to>-2</to>
+</linkDataArray>
+<linkDataArray>
+<points>-442</points>
+<points>-143</points>
+<points>-442</points>
+<points>-133</points>
+<points>-442</points>
+<points>-132</points>
+<points>-400</points>
+<points>-132</points>
+<points>-400</points>
+<points>-115.5</points>
+<points>-400</points>
+<points>-105.5</points>
+<toArrow>SidewaysV</toArrow>
+<Linktype>依赖</Linktype>
+<from>-11</from>
+<to>-4</to>
+</linkDataArray>
+<linkDataArray>
+<points>-492</points>
+<points>-208.5</points>
+<points>-492</points>
+<points>-198.5</points>
+<points>-492</points>
+<points>-198.5</points>
+<points>-492</points>
+<points>-198.5</points>
+<points>-492</points>
+<points>-115</points>
+<points>-492</points>
+<points>-105</points>
+<toArrow>SidewaysV</toArrow>
+<Linktype>依赖</Linktype>
+<from>-10</from>
+<to>-21</to>
+</linkDataArray>
+<linkDataArray>
+<points>-403</points>
+<points>74</points>
+<points>-403</points>
+<points>84</points>
+<points>-403</points>
+<points>84.25</points>
+<points>-403</points>
+<points>84.25</points>
+<points>-403</points>
+<points>84.5</points>
+<points>-403</points>
+<points>94.5</points>
+<toArrow>Circle</toArrow>
+<Linktype>AND</Linktype>
+<from>-16</from>
+<to>-27</to>
+</linkDataArray>
+<linkDataArray>
+<points>-332.6719591193088</points>
+<points>132</points>
+<points>-322.6719591193088</points>
+<points>132</points>
+<points>-322.6719591193088</points>
+<points>179.5</points>
+<points>-322.6719591193088</points>
+<points>179.5</points>
+<points>-322.5</points>
+<points>179.5</points>
+<points>-322.5</points>
+<points>189.5</points>
+<toArrow>Circle</toArrow>
+<Linktype>AND</Linktype>
+<from>-27</from>
+<to>-18</to>
+</linkDataArray>
+<linkDataArray>
+<points>-485.5</points>
+<points>132</points>
+<points>-495.5</points>
+<points>132</points>
+<points>-503</points>
+<points>132</points>
+<points>-503</points>
+<points>156</points>
+<points>-503</points>
+<points>180</points>
+<points>-503</points>
+<points>190</points>
+<toArrow>Circle</toArrow>
+<Linktype>AND</Linktype>
+<from>-27</from>
+<to>-17</to>
+</linkDataArray>
+<linkDataArray>
+<points>-322.5</points>
+<points>234.5</points>
+<points>-322.5</points>
+<points>244.5</points>
+<points>-322.5</points>
+<points>244.5</points>
+<points>-322.5</points>
+<points>244.5</points>
+<points>-322.5</points>
+<points>254</points>
+<points>-322.5</points>
+<points>264</points>
+<toArrow>SidewaysV</toArrow>
+<Linktype>依赖</Linktype>
+<from>-18</from>
+<to>-23</to>
+</linkDataArray>
+</myData>

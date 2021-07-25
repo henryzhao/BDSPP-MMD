@@ -1,0 +1,1437 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<myData>
+<class>GraphLinksModel</class>
+<modelData>
+<position>-726.885467884636 -371.9743456250001</position>
+</modelData>
+<nodeDataArray>
+<Name>城管局</Name>
+<Type>&lt;&lt;角色&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Actor</figure>
+<minSize>
+<class>go.Size</class>
+<width>20</width>
+<height>20</height>
+</minSize>
+<width>50</width>
+<height>70</height>
+<nodeType>serviceValue</nodeType>
+<fill>#eac49e</fill>
+<stroke>#CDAA7D</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-6</key>
+<loc>190 -110</loc>
+<size>95 91</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>环保局</Name>
+<Type>&lt;&lt;角色&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Actor</figure>
+<minSize>
+<class>go.Size</class>
+<width>20</width>
+<height>20</height>
+</minSize>
+<width>50</width>
+<height>70</height>
+<nodeType>serviceValue</nodeType>
+<fill>#eac49e</fill>
+<stroke>#CDAA7D</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-2</key>
+<loc>190 100</loc>
+<size>91 90</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>公众</Name>
+<Type>&lt;&lt;角色&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Actor</figure>
+<minSize>
+<class>go.Size</class>
+<width>20</width>
+<height>20</height>
+</minSize>
+<width>50</width>
+<height>70</height>
+<nodeType>serviceValue</nodeType>
+<fill>#eac49e</fill>
+<stroke>#CDAA7D</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-3</key>
+<loc>185 284</loc>
+<size>84 90</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>交管局</Name>
+<Type>&lt;&lt;角色&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Actor</figure>
+<minSize>
+<class>go.Size</class>
+<width>20</width>
+<height>20</height>
+</minSize>
+<width>50</width>
+<height>70</height>
+<nodeType>serviceValue</nodeType>
+<fill>#eac49e</fill>
+<stroke>#CDAA7D</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-4</key>
+<loc>-420 -120</loc>
+<size>90 97</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>社区</Name>
+<Type>&lt;&lt;角色&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Actor</figure>
+<minSize>
+<class>go.Size</class>
+<width>20</width>
+<height>20</height>
+</minSize>
+<width>50</width>
+<height>70</height>
+<nodeType>serviceValue</nodeType>
+<fill>#eac49e</fill>
+<stroke>#CDAA7D</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-5</key>
+<loc>-420 110</loc>
+<size>80 85</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>住建局</Name>
+<Type>&lt;&lt;角色&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Actor</figure>
+<minSize>
+<class>go.Size</class>
+<width>20</width>
+<height>20</height>
+</minSize>
+<width>50</width>
+<height>70</height>
+<nodeType>serviceValue</nodeType>
+<fill>#eac49e</fill>
+<stroke>#CDAA7D</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-7</key>
+<loc>-410 290</loc>
+<size>92 80</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>车辆监控</Name>
+<Type>&lt;&lt;价值活动&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Card</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#fad7a7</fill>
+<stroke>#DAA520</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-1</key>
+<loc>400 -290</loc>
+<size>74 47</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>信息</Name>
+<Type>&lt;&lt;价值对象&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>RoundedRectangle</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#f4e4d0</fill>
+<stroke>#CDAA7D</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-8</key>
+<loc>-70 -270</loc>
+<size>70 44</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>行驶轨迹分析</Name>
+<Type>&lt;&lt;价值活动&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Card</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#fad7a7</fill>
+<stroke>#DAA520</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-9</key>
+<loc>400 -180</loc>
+</nodeDataArray>
+<nodeDataArray>
+<Name>运行监测</Name>
+<Type>&lt;&lt;价值活动&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Card</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#fad7a7</fill>
+<stroke>#DAA520</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-10</key>
+<loc>410 -80</loc>
+<size>77 45</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>停车位信息</Name>
+<Type>&lt;&lt;价值对象&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>RoundedRectangle</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#f4e4d0</fill>
+<stroke>#CDAA7D</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-11</key>
+<loc>-610 190</loc>
+<size>77 52</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>车辆信息</Name>
+<Type>&lt;&lt;价值对象&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>RoundedRectangle</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#f4e4d0</fill>
+<stroke>#CDAA7D</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-12</key>
+<loc>-610 -230</loc>
+<size>74 54</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>道路信息</Name>
+<Type>&lt;&lt;价值对象&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>RoundedRectangle</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#f4e4d0</fill>
+<stroke>#CDAA7D</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-13</key>
+<loc>-610 40</loc>
+<size>76 54</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>交通信息</Name>
+<Type>&lt;&lt;价值对象&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>RoundedRectangle</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#f4e4d0</fill>
+<stroke>#CDAA7D</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-14</key>
+<loc>-610 -110</loc>
+<size>67 50</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>收费信息</Name>
+<Type>&lt;&lt;价值对象&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>RoundedRectangle</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#f4e4d0</fill>
+<stroke>#CDAA7D</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-15</key>
+<loc>-610 310</loc>
+<size>67 54</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>采集道路信息</Name>
+<Type>&lt;&lt;价值活动&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Card</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#fad7a7</fill>
+<stroke>#DAA520</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-16</key>
+<loc>-220 0</loc>
+<size>67 47</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>停车位管理</Name>
+<Type>&lt;&lt;目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Ellipse</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#b0cdb9</fill>
+<stroke>#2E8B57</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-17</key>
+<loc>-420 -20</loc>
+</nodeDataArray>
+<nodeDataArray>
+<Name>采集车辆信息</Name>
+<Type>&lt;&lt;价值活动&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Card</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#fad7a7</fill>
+<stroke>#DAA520</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-18</key>
+<loc>-220 -230</loc>
+<size>67 50</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>采集停车位信息</Name>
+<Type>&lt;&lt;价值活动&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Card</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#fad7a7</fill>
+<stroke>#DAA520</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-19</key>
+<loc>-220 150</loc>
+<size>67 50</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>采集交通信息</Name>
+<Type>&lt;&lt;价值活动&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Card</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#fad7a7</fill>
+<stroke>#DAA520</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-20</key>
+<loc>-220 -120</loc>
+<size>67 50</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>交通管理</Name>
+<Type>&lt;&lt;目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Ellipse</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#b0cdb9</fill>
+<stroke>#2E8B57</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-21</key>
+<loc>-420 -280</loc>
+</nodeDataArray>
+<nodeDataArray>
+<Name>采集收费信息</Name>
+<Type>&lt;&lt;价值活动&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Card</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#fad7a7</fill>
+<stroke>#DAA520</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-22</key>
+<loc>-220 300</loc>
+<size>67 47</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>城市管理</Name>
+<Type>&lt;&lt;目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Ellipse</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#b0cdb9</fill>
+<stroke>#2E8B57</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-23</key>
+<loc>-410 430</loc>
+<size>115 56</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>车辆监控</Name>
+<Type>&lt;&lt;目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Ellipse</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#b0cdb9</fill>
+<stroke>#2E8B57</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-24</key>
+<loc>190 -270</loc>
+</nodeDataArray>
+<nodeDataArray>
+<Name>停车规划</Name>
+<Type>&lt;&lt;价值活动&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Card</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#fad7a7</fill>
+<stroke>#DAA520</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-25</key>
+<loc>400 250</loc>
+<size>81 46</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>综合查询</Name>
+<Type>&lt;&lt;价值活动&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Card</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#fad7a7</fill>
+<stroke>#DAA520</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-26</key>
+<loc>410 340</loc>
+<size>77 50</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>智慧交通</Name>
+<Type>&lt;&lt;角色&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Actor</figure>
+<minSize>
+<class>go.Size</class>
+<width>20</width>
+<height>20</height>
+</minSize>
+<width>50</width>
+<height>70</height>
+<nodeType>serviceValue</nodeType>
+<fill>#eac49e</fill>
+<stroke>#CDAA7D</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-27</key>
+<loc>-70 40</loc>
+<size>96 102</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>车辆 资源动态感知</Name>
+<Type>&lt;&lt;目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Ellipse</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#b0cdb9</fill>
+<stroke>#2E8B57</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-28</key>
+<loc>-70 420</loc>
+<size>146 59</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>提供信息</Name>
+<Type>&lt;&lt;价值活动&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Card</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#fad7a7</fill>
+<stroke>#DAA520</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-29</key>
+<loc>40 40</loc>
+</nodeDataArray>
+<nodeDataArray>
+<Name>车辆</Name>
+<Type>&lt;&lt;价值对象&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>RoundedRectangle</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#f4e4d0</fill>
+<stroke>#CDAA7D</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-30</key>
+<loc>40 -270</loc>
+<size>72.52284749830794 40</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>车辆停放与行驶</Name>
+<Type>&lt;&lt;目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Ellipse</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#b0cdb9</fill>
+<stroke>#2E8B57</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-31</key>
+<loc>190 430</loc>
+<size>136 62</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>指数分析</Name>
+<Type>&lt;&lt;价值活动&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Card</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#fad7a7</fill>
+<stroke>#DAA520</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-32</key>
+<loc>410 80</loc>
+<size>70 46</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>行驶引导</Name>
+<Type>&lt;&lt;价值活动&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Card</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#fad7a7</fill>
+<stroke>#DAA520</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-33</key>
+<loc>410 10</loc>
+<size>73 46</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>协调交通保护环境</Name>
+<Type>&lt;&lt;目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Ellipse</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#b0cdb9</fill>
+<stroke>#2E8B57</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-34</key>
+<loc>30 270</loc>
+<size>124 69</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>服务评价</Name>
+<Type>&lt;&lt;价值活动&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Card</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#fad7a7</fill>
+<stroke>#DAA520</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-35</key>
+<loc>410 430</loc>
+<size>77 50</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>限行监测</Name>
+<Type>&lt;&lt;价值活动&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Card</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#fad7a7</fill>
+<stroke>#DAA520</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-36</key>
+<loc>410 160</loc>
+<size>74 45</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>车辆</Name>
+<Type>&lt;&lt;价值对象&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>RoundedRectangle</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#f4e4d0</fill>
+<stroke>#CDAA7D</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-37</key>
+<loc>190 0</loc>
+<size>72.52284749830794 40</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>车辆</Name>
+<Type>&lt;&lt;价值对象&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>RoundedRectangle</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#f4e4d0</fill>
+<stroke>#CDAA7D</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-38</key>
+<loc>50 350</loc>
+<size>72.52284749830794 40</size>
+</nodeDataArray>
+<linkDataArray>
+<from>-4</from>
+<to>-21</to>
+<points>-420</points>
+<points>-168.5</points>
+<points>-420</points>
+<points>-178.5</points>
+<points>-420</points>
+<points>-212.12209302325581</points>
+<points>-420</points>
+<points>-212.12209302325581</points>
+<points>-420</points>
+<points>-245.74418604651163</points>
+<points>-420</points>
+<points>-255.74418604651163</points>
+</linkDataArray>
+<linkDataArray>
+<from>-5</from>
+<to>-17</to>
+<points>-420</points>
+<points>67.5</points>
+<points>-420</points>
+<points>57.5</points>
+<points>-420</points>
+<points>35.877906976744185</points>
+<points>-420</points>
+<points>35.877906976744185</points>
+<points>-420</points>
+<points>14.255813953488378</points>
+<points>-420</points>
+<points>4.255813953488378</points>
+</linkDataArray>
+<linkDataArray>
+<from>-7</from>
+<to>-23</to>
+<points>-411</points>
+<points>290</points>
+<points>-411</points>
+<points>300</points>
+<points>-411</points>
+<points>346</points>
+<points>-410</points>
+<points>346</points>
+<points>-410</points>
+<points>392</points>
+<points>-410</points>
+<points>402</points>
+</linkDataArray>
+<linkDataArray>
+<from>-4</from>
+<to>-12</to>
+<points>-465</points>
+<points>-120</points>
+<points>-475</points>
+<points>-120</points>
+<points>-519</points>
+<points>-120</points>
+<points>-519</points>
+<points>-230</points>
+<points>-563</points>
+<points>-230</points>
+<points>-573</points>
+<points>-230</points>
+</linkDataArray>
+<linkDataArray>
+<from>-4</from>
+<to>-14</to>
+<points>-465</points>
+<points>-120</points>
+<points>-475</points>
+<points>-120</points>
+<points>-520.75</points>
+<points>-120</points>
+<points>-520.75</points>
+<points>-110</points>
+<points>-566.5</points>
+<points>-110</points>
+<points>-576.5</points>
+<points>-110</points>
+</linkDataArray>
+<linkDataArray>
+<from>-4</from>
+<to>-13</to>
+<points>-465</points>
+<points>-120</points>
+<points>-475</points>
+<points>-120</points>
+<points>-518.5</points>
+<points>-120</points>
+<points>-518.5</points>
+<points>40</points>
+<points>-562</points>
+<points>40</points>
+<points>-572</points>
+<points>40</points>
+</linkDataArray>
+<linkDataArray>
+<from>-4</from>
+<to>-18</to>
+<points>-375</points>
+<points>-120</points>
+<points>-365</points>
+<points>-120</points>
+<points>-314.25</points>
+<points>-120</points>
+<points>-314.25</points>
+<points>-230</points>
+<points>-263.5</points>
+<points>-230</points>
+<points>-253.5</points>
+<points>-230</points>
+</linkDataArray>
+<linkDataArray>
+<from>-4</from>
+<to>-20</to>
+<points>-375</points>
+<points>-120</points>
+<points>-365</points>
+<points>-120</points>
+<points>-314.25</points>
+<points>-120</points>
+<points>-314.25</points>
+<points>-120</points>
+<points>-263.5</points>
+<points>-120</points>
+<points>-253.5</points>
+<points>-120</points>
+</linkDataArray>
+<linkDataArray>
+<from>-4</from>
+<to>-16</to>
+<points>-375</points>
+<points>-120</points>
+<points>-365</points>
+<points>-120</points>
+<points>-314.25</points>
+<points>-120</points>
+<points>-314.25</points>
+<points>0</points>
+<points>-263.5</points>
+<points>0</points>
+<points>-253.5</points>
+<points>0</points>
+</linkDataArray>
+<linkDataArray>
+<from>-5</from>
+<to>-11</to>
+<points>-460</points>
+<points>110</points>
+<points>-470</points>
+<points>110</points>
+<points>-515.75</points>
+<points>110</points>
+<points>-515.75</points>
+<points>190</points>
+<points>-561.5</points>
+<points>190</points>
+<points>-571.5</points>
+<points>190</points>
+</linkDataArray>
+<linkDataArray>
+<from>-5</from>
+<to>-15</to>
+<points>-420</points>
+<points>123.45000000000005</points>
+<points>-420</points>
+<points>133.45000000000005</points>
+<points>-420</points>
+<points>132</points>
+<points>-420</points>
+<points>132</points>
+<points>-420</points>
+<points>228</points>
+<points>-610</points>
+<points>228</points>
+<points>-610</points>
+<points>273</points>
+<points>-610</points>
+<points>283</points>
+</linkDataArray>
+<linkDataArray>
+<from>-5</from>
+<to>-19</to>
+<points>-380</points>
+<points>110</points>
+<points>-370</points>
+<points>110</points>
+<points>-316.75</points>
+<points>110</points>
+<points>-316.75</points>
+<points>150</points>
+<points>-263.5</points>
+<points>150</points>
+<points>-253.5</points>
+<points>150</points>
+</linkDataArray>
+<linkDataArray>
+<from>-5</from>
+<to>-22</to>
+<points>-380</points>
+<points>110</points>
+<points>-370</points>
+<points>110</points>
+<points>-316.75</points>
+<points>110</points>
+<points>-316.75</points>
+<points>300</points>
+<points>-263.5</points>
+<points>300</points>
+<points>-253.5</points>
+<points>300</points>
+</linkDataArray>
+<linkDataArray>
+<from>-7</from>
+<to>-13</to>
+<points>-410</points>
+<points>250</points>
+<points>-410</points>
+<points>240</points>
+<points>-410</points>
+<points>240</points>
+<points>-468</points>
+<points>240</points>
+<points>-468</points>
+<points>156</points>
+<points>-610</points>
+<points>156</points>
+<points>-610</points>
+<points>77</points>
+<points>-610</points>
+<points>67</points>
+</linkDataArray>
+<linkDataArray>
+<from>-7</from>
+<to>-11</to>
+<points>-456</points>
+<points>290</points>
+<points>-466</points>
+<points>290</points>
+<points>-513.75</points>
+<points>290</points>
+<points>-513.75</points>
+<points>190</points>
+<points>-561.5</points>
+<points>190</points>
+<points>-571.5</points>
+<points>190</points>
+</linkDataArray>
+<linkDataArray>
+<from>-7</from>
+<to>-16</to>
+<points>-410</points>
+<points>250</points>
+<points>-410</points>
+<points>240</points>
+<points>-410</points>
+<points>240</points>
+<points>-372</points>
+<points>240</points>
+<points>-372</points>
+<points>116</points>
+<points>-220</points>
+<points>116</points>
+<points>-220</points>
+<points>33.5</points>
+<points>-220</points>
+<points>23.5</points>
+</linkDataArray>
+<linkDataArray>
+<from>-7</from>
+<to>-19</to>
+<points>-364</points>
+<points>290</points>
+<points>-354</points>
+<points>290</points>
+<points>-308.75</points>
+<points>290</points>
+<points>-308.75</points>
+<points>150</points>
+<points>-263.5</points>
+<points>150</points>
+<points>-253.5</points>
+<points>150</points>
+</linkDataArray>
+<linkDataArray>
+<from>-6</from>
+<to>-1</to>
+<points>237.5</points>
+<points>-110</points>
+<points>247.5</points>
+<points>-110</points>
+<points>300.25</points>
+<points>-110</points>
+<points>300.25</points>
+<points>-290</points>
+<points>353</points>
+<points>-290</points>
+<points>363</points>
+<points>-290</points>
+</linkDataArray>
+<linkDataArray>
+<from>-6</from>
+<to>-9</to>
+<points>237.5</points>
+<points>-110</points>
+<points>247.5</points>
+<points>-110</points>
+<points>297.75</points>
+<points>-110</points>
+<points>297.75</points>
+<points>-180</points>
+<points>348</points>
+<points>-180</points>
+<points>358</points>
+<points>-180</points>
+</linkDataArray>
+<linkDataArray>
+<from>-6</from>
+<to>-10</to>
+<points>237.5</points>
+<points>-110</points>
+<points>247.5</points>
+<points>-110</points>
+<points>304.5</points>
+<points>-110</points>
+<points>304.5</points>
+<points>-80</points>
+<points>361.5</points>
+<points>-80</points>
+<points>371.5</points>
+<points>-80</points>
+</linkDataArray>
+<linkDataArray>
+<from>-6</from>
+<to>-24</to>
+<points>190</points>
+<points>-155.5</points>
+<points>190</points>
+<points>-165.5</points>
+<points>190</points>
+<points>-200.62209302325581</points>
+<points>190</points>
+<points>-200.62209302325581</points>
+<points>190</points>
+<points>-235.74418604651163</points>
+<points>190</points>
+<points>-245.74418604651163</points>
+</linkDataArray>
+<linkDataArray>
+<from>-3</from>
+<to>-25</to>
+<points>227</points>
+<points>284</points>
+<points>237</points>
+<points>284</points>
+<points>293.25</points>
+<points>284</points>
+<points>293.25</points>
+<points>250</points>
+<points>349.5</points>
+<points>250</points>
+<points>359.5</points>
+<points>250</points>
+</linkDataArray>
+<linkDataArray>
+<from>-3</from>
+<to>-26</to>
+<points>227</points>
+<points>284</points>
+<points>237</points>
+<points>284</points>
+<points>299.25</points>
+<points>284</points>
+<points>299.25</points>
+<points>340</points>
+<points>361.5</points>
+<points>340</points>
+<points>371.5</points>
+<points>340</points>
+</linkDataArray>
+<linkDataArray>
+<from>-18</from>
+<to>-27</to>
+<points>-220</points>
+<points>-205</points>
+<points>-220</points>
+<points>-195</points>
+<points>-220</points>
+<points>-195</points>
+<points>-70</points>
+<points>-195</points>
+<points>-70</points>
+<points>-21</points>
+<points>-70</points>
+<points>-11</points>
+</linkDataArray>
+<linkDataArray>
+<from>-16</from>
+<to>-27</to>
+<points>-186.5</points>
+<points>0</points>
+<points>-176.5</points>
+<points>0</points>
+<points>-152.25</points>
+<points>0</points>
+<points>-152.25</points>
+<points>40</points>
+<points>-128</points>
+<points>40</points>
+<points>-118</points>
+<points>40</points>
+</linkDataArray>
+<linkDataArray>
+<from>-20</from>
+<to>-27</to>
+<points>-220</points>
+<points>-95</points>
+<points>-220</points>
+<points>-85</points>
+<points>-220</points>
+<points>-53</points>
+<points>-70</points>
+<points>-53</points>
+<points>-70</points>
+<points>-21</points>
+<points>-70</points>
+<points>-11</points>
+</linkDataArray>
+<linkDataArray>
+<from>-19</from>
+<to>-27</to>
+<points>-186.5</points>
+<points>150</points>
+<points>-176.5</points>
+<points>150</points>
+<points>-152.25</points>
+<points>150</points>
+<points>-152.25</points>
+<points>40</points>
+<points>-128</points>
+<points>40</points>
+<points>-118</points>
+<points>40</points>
+</linkDataArray>
+<linkDataArray>
+<from>-22</from>
+<to>-27</to>
+<points>-220</points>
+<points>276.5</points>
+<points>-220</points>
+<points>266.5</points>
+<points>-220</points>
+<points>266.5</points>
+<points>-70</points>
+<points>266.5</points>
+<points>-70</points>
+<points>66.00000000000004</points>
+<points>-70</points>
+<points>56.00000000000004</points>
+</linkDataArray>
+<linkDataArray>
+<from>-27</from>
+<to>-28</to>
+<points>-70</points>
+<points>56.00000000000004</points>
+<points>-70</points>
+<points>66.00000000000004</points>
+<points>-70</points>
+<points>66.00000000000004</points>
+<points>-70</points>
+<points>66.00000000000004</points>
+<points>-70</points>
+<points>380.5</points>
+<points>-70</points>
+<points>390.5</points>
+</linkDataArray>
+<linkDataArray>
+<from>-27</from>
+<to>-8</to>
+<points>-70</points>
+<points>-11</points>
+<points>-70</points>
+<points>-21</points>
+<points>-70</points>
+<points>-129.5</points>
+<points>-70</points>
+<points>-129.5</points>
+<points>-70</points>
+<points>-238</points>
+<points>-70</points>
+<points>-248</points>
+</linkDataArray>
+<linkDataArray>
+<from>-27</from>
+<to>-29</to>
+<points>-22</points>
+<points>40</points>
+<points>-12</points>
+<points>40</points>
+<points>-5.3333330154418945</points>
+<points>40</points>
+<points>-5.3333330154418945</points>
+<points>40</points>
+<points>1.333333969116211</points>
+<points>40</points>
+<points>11.333333969116211</points>
+<points>40</points>
+</linkDataArray>
+<linkDataArray>
+<from>-29</from>
+<to>-6</to>
+<points>40</points>
+<points>19</points>
+<points>40</points>
+<points>9</points>
+<points>40</points>
+<points>-110</points>
+<points>86.25</points>
+<points>-110</points>
+<points>132.5</points>
+<points>-110</points>
+<points>142.5</points>
+<points>-110</points>
+</linkDataArray>
+<linkDataArray>
+<from>-29</from>
+<to>-2</to>
+<points>68.66666603088379</points>
+<points>40</points>
+<points>78.66666603088379</points>
+<points>40</points>
+<points>106.5833330154419</points>
+<points>40</points>
+<points>106.5833330154419</points>
+<points>100</points>
+<points>134.5</points>
+<points>100</points>
+<points>144.5</points>
+<points>100</points>
+</linkDataArray>
+<linkDataArray>
+<from>-29</from>
+<to>-3</to>
+<points>40</points>
+<points>61</points>
+<points>40</points>
+<points>71</points>
+<points>40</points>
+<points>68</points>
+<points>40</points>
+<points>68</points>
+<points>40</points>
+<points>124</points>
+<points>185</points>
+<points>124</points>
+<points>185</points>
+<points>229</points>
+<points>185</points>
+<points>239</points>
+</linkDataArray>
+<linkDataArray>
+<from>-6</from>
+<to>-30</to>
+<points>190</points>
+<points>-155.5</points>
+<points>190</points>
+<points>-165.5</points>
+<points>190</points>
+<points>-202.75</points>
+<points>39.99999999999999</points>
+<points>-202.75</points>
+<points>39.99999999999999</points>
+<points>-240</points>
+<points>39.99999999999999</points>
+<points>-250</points>
+</linkDataArray>
+<linkDataArray>
+<from>-3</from>
+<to>-31</to>
+<points>184</points>
+<points>284</points>
+<points>184</points>
+<points>294</points>
+<points>184</points>
+<points>341.5</points>
+<points>190</points>
+<points>341.5</points>
+<points>190</points>
+<points>389</points>
+<points>190</points>
+<points>399</points>
+</linkDataArray>
+<linkDataArray>
+<from>-2</from>
+<to>-32</to>
+<points>235.5</points>
+<points>100</points>
+<points>245.5</points>
+<points>100</points>
+<points>305.25</points>
+<points>100</points>
+<points>305.25</points>
+<points>80</points>
+<points>365</points>
+<points>80</points>
+<points>375</points>
+<points>80</points>
+</linkDataArray>
+<linkDataArray>
+<from>-2</from>
+<to>-34</to>
+<points>190</points>
+<points>114.20000000000002</points>
+<points>190</points>
+<points>124.20000000000002</points>
+<points>190</points>
+<points>174.85000000000002</points>
+<points>30</points>
+<points>174.85000000000002</points>
+<points>30</points>
+<points>225.5</points>
+<points>30</points>
+<points>235.5</points>
+</linkDataArray>
+<linkDataArray>
+<from>-6</from>
+<to>-33</to>
+<points>237.5</points>
+<points>-110</points>
+<points>247.5</points>
+<points>-110</points>
+<points>305.5</points>
+<points>-110</points>
+<points>305.5</points>
+<points>10.000000000000004</points>
+<points>363.5</points>
+<points>10.000000000000004</points>
+<points>373.5</points>
+<points>10.000000000000004</points>
+</linkDataArray>
+<linkDataArray>
+<from>-3</from>
+<to>-35</to>
+<points>227</points>
+<points>284</points>
+<points>237</points>
+<points>284</points>
+<points>299.25</points>
+<points>284</points>
+<points>299.25</points>
+<points>430</points>
+<points>361.5</points>
+<points>430</points>
+<points>371.5</points>
+<points>430</points>
+</linkDataArray>
+<linkDataArray>
+<from>-3</from>
+<to>-10</to>
+<points>185</points>
+<points>239</points>
+<points>185</points>
+<points>229</points>
+<points>185</points>
+<points>228</points>
+<points>244</points>
+<points>228</points>
+<points>244</points>
+<points>-20</points>
+<points>410</points>
+<points>-20</points>
+<points>410</points>
+<points>-47.5</points>
+<points>410</points>
+<points>-57.5</points>
+</linkDataArray>
+<linkDataArray>
+<from>-2</from>
+<to>-36</to>
+<points>235.5</points>
+<points>100</points>
+<points>245.5</points>
+<points>100</points>
+<points>304.25</points>
+<points>100</points>
+<points>304.25</points>
+<points>160</points>
+<points>363</points>
+<points>160</points>
+<points>373</points>
+<points>160</points>
+</linkDataArray>
+<linkDataArray>
+<from>-2</from>
+<to>-25</to>
+<points>235.5</points>
+<points>100</points>
+<points>245.5</points>
+<points>100</points>
+<points>297.5</points>
+<points>100</points>
+<points>297.5</points>
+<points>250</points>
+<points>349.5</points>
+<points>250</points>
+<points>359.5</points>
+<points>250</points>
+</linkDataArray>
+<linkDataArray>
+<from>-2</from>
+<to>-37</to>
+<points>190</points>
+<points>55</points>
+<points>190</points>
+<points>45</points>
+<points>190</points>
+<points>37.5</points>
+<points>190</points>
+<points>37.5</points>
+<points>190</points>
+<points>30</points>
+<points>190</points>
+<points>20</points>
+</linkDataArray>
+<linkDataArray>
+<from>-3</from>
+<to>-38</to>
+<points>143</points>
+<points>284</points>
+<points>133</points>
+<points>284</points>
+<points>114.63071187457697</points>
+<points>284</points>
+<points>114.63071187457697</points>
+<points>350</points>
+<points>96.26142374915395</points>
+<points>350</points>
+<points>86.26142374915395</points>
+<points>350</points>
+</linkDataArray>
+</myData>

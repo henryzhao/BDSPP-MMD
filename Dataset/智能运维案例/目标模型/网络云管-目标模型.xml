@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<myData>
+<class>GraphLinksModel</class>
+<modelData>
+<position>-884.5 -490.261423749154</position>
+</modelData>
+<nodeDataArray>
+<Name>管理者</Name>
+<Type>&lt;&lt;角色作用域&gt;&gt;</Type>
+<minSize>
+<class>go.Size</class>
+<width>20</width>
+<height>20</height>
+</minSize>
+<fill>#ffffff</fill>
+<isGroup>true</isGroup>
+<category>OfNodes</category>
+<stroke>gray</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-38</key>
+<Annotation></Annotation>
+</nodeDataArray>
+<nodeDataArray>
+<Name>监管门店情况</Name>
+<Type>&lt;&lt;功能性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Pentagon</figure>
+<nodeType>target</nodeType>
+<fill>#8FBC8F</fill>
+<stroke>#2E8B57</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-39</key>
+<loc>-630 -359.5</loc>
+<group>-38</group>
+<size>83 66</size>
+<Operation></Operation>
+<Object></Object>
+</nodeDataArray>
+<nodeDataArray>
+<Name>线上管理</Name>
+<Type>&lt;&lt;功能性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Pentagon</figure>
+<nodeType>target</nodeType>
+<fill>#8FBC8F</fill>
+<stroke>#2E8B57</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-41</key>
+<loc>-610 -250</loc>
+<group>-38</group>
+<size>81 66</size>
+<Operation></Operation>
+<Object></Object>
+</nodeDataArray>
+<nodeDataArray>
+<Name>设置门店任务</Name>
+<Type>&lt;&lt;可操作性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>CreateRequest</figure>
+<nodeType>target</nodeType>
+<fill>#c0d9a2</fill>
+<stroke>#8FBC8F</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-42</key>
+<loc>-650 -160</loc>
+<group>-38</group>
+<size>55 36</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>智能检测</Name>
+<Type>&lt;&lt;可操作性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>CreateRequest</figure>
+<nodeType>target</nodeType>
+<fill>#c0d9a2</fill>
+<stroke>#8FBC8F</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-43</key>
+<loc>-540 -160</loc>
+<group>-38</group>
+<size>55 34</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>云管平台</Name>
+<Type>&lt;&lt;角色作用域&gt;&gt;</Type>
+<minSize>
+<class>go.Size</class>
+<width>20</width>
+<height>20</height>
+</minSize>
+<fill>#ffffff</fill>
+<isGroup>true</isGroup>
+<category>OfNodes</category>
+<stroke>gray</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-13</key>
+<Annotation>undefined</Annotation>
+</nodeDataArray>
+<nodeDataArray>
+<Name>提高企业监管效率</Name>
+<Type>&lt;&lt;功能性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Pentagon</figure>
+<nodeType>target</nodeType>
+<fill>#8FBC8F</fill>
+<stroke>#2E8B57</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-14</key>
+<loc>-16 -346</loc>
+<group>-13</group>
+<size>100 72</size>
+<Operation>undefined</Operation>
+<Object>undefined</Object>
+</nodeDataArray>
+<nodeDataArray>
+<Name>网络管理</Name>
+<Type>&lt;&lt;功能性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Pentagon</figure>
+<nodeType>target</nodeType>
+<fill>#8FBC8F</fill>
+<stroke>#2E8B57</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-15</key>
+<loc>-179 -250</loc>
+<group>-13</group>
+<size>74 62</size>
+<Operation>undefined</Operation>
+<Object>undefined</Object>
+</nodeDataArray>
+<nodeDataArray>
+<Name>数据运营</Name>
+<Type>&lt;&lt;功能性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Pentagon</figure>
+<nodeType>target</nodeType>
+<fill>#8FBC8F</fill>
+<stroke>#2E8B57</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-16</key>
+<loc>-16 -256</loc>
+<group>-13</group>
+<size>74 62</size>
+<Operation>undefined</Operation>
+<Object>undefined</Object>
+</nodeDataArray>
+<nodeDataArray>
+<Name>网监审计</Name>
+<Type>&lt;&lt;功能性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Pentagon</figure>
+<nodeType>target</nodeType>
+<fill>#8FBC8F</fill>
+<stroke>#2E8B57</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-17</key>
+<loc>154 -256</loc>
+<group>-13</group>
+<size>74 62</size>
+<Operation>undefined</Operation>
+<Object>undefined</Object>
+</nodeDataArray>
+<nodeDataArray>
+<Name>网络部署及连接</Name>
+<Type>&lt;&lt;可操作性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>CreateRequest</figure>
+<nodeType>target</nodeType>
+<fill>#c0d9a2</fill>
+<stroke>#8FBC8F</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-18</key>
+<loc>-176 -186</loc>
+<group>-13</group>
+<size>68 34</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>智能匹配</Name>
+<Type>&lt;&lt;可操作性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>CreateRequest</figure>
+<nodeType>target</nodeType>
+<fill>#c0d9a2</fill>
+<stroke>#8FBC8F</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-19</key>
+<loc>-86 -186</loc>
+<group>-13</group>
+<size>68 34</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>刻画客户画像</Name>
+<Type>&lt;&lt;可操作性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>CreateRequest</figure>
+<nodeType>target</nodeType>
+<fill>#c0d9a2</fill>
+<stroke>#8FBC8F</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-20</key>
+<loc>-6 -186</loc>
+<group>-13</group>
+<size>68 34</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>会员体系</Name>
+<Type>&lt;&lt;可操作性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>CreateRequest</figure>
+<nodeType>target</nodeType>
+<fill>#c0d9a2</fill>
+<stroke>#8FBC8F</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-21</key>
+<loc>74 -186</loc>
+<group>-13</group>
+<size>68 34</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>满足地区审计要求</Name>
+<Type>&lt;&lt;可操作性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>CreateRequest</figure>
+<nodeType>target</nodeType>
+<fill>#c0d9a2</fill>
+<stroke>#8FBC8F</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-22</key>
+<loc>164 -186</loc>
+<group>-13</group>
+<size>68 34</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>管理服务</Name>
+<Type>&lt;&lt;资源&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>ExternalOrganization</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#f4d9ce</fill>
+<stroke>#CDB7B5</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-23</key>
+<loc>-400 -270</loc>
+<size>55 30</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>地方网监平台</Name>
+<Type>&lt;&lt;角色作用域&gt;&gt;</Type>
+<minSize>
+<class>go.Size</class>
+<width>20</width>
+<height>20</height>
+</minSize>
+<fill>#ffffff</fill>
+<isGroup>true</isGroup>
+<category>OfNodes</category>
+<stroke>gray</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-28</key>
+<Annotation>undefined</Annotation>
+</nodeDataArray>
+<nodeDataArray>
+<Name>监管网络信息</Name>
+<Type>&lt;&lt;功能性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Pentagon</figure>
+<nodeType>target</nodeType>
+<fill>#8FBC8F</fill>
+<stroke>#2E8B57</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-29</key>
+<loc>-256 79</loc>
+<group>-28</group>
+<size>84 61</size>
+<Operation>undefined</Operation>
+<Object>undefined</Object>
+</nodeDataArray>
+<nodeDataArray>
+<Name>接入信息</Name>
+<Type>&lt;&lt;可操作性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>CreateRequest</figure>
+<nodeType>target</nodeType>
+<fill>#c0d9a2</fill>
+<stroke>#8FBC8F</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-30</key>
+<loc>-260 180</loc>
+<group>-28</group>
+<size>69 36</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>网络信息</Name>
+<Type>&lt;&lt;资源&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>ExternalOrganization</figure>
+<nodeType>serviceValue</nodeType>
+<fill>#f4d9ce</fill>
+<stroke>#CDB7B5</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-31</key>
+<loc>30 -60</loc>
+<size>61 29</size>
+</nodeDataArray>
+<nodeDataArray>
+<Name>网络维护</Name>
+<Type>&lt;&lt;可操作性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>CreateRequest</figure>
+<nodeType>target</nodeType>
+<fill>#c0d9a2</fill>
+<stroke>#8FBC8F</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-3</key>
+<loc>-440 -160</loc>
+<group>-38</group>
+</nodeDataArray>
+<nodeDataArray>
+<Name>信息审查</Name>
+<Type>&lt;&lt;可操作性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>CreateRequest</figure>
+<nodeType>target</nodeType>
+<fill>#c0d9a2</fill>
+<stroke>#8FBC8F</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-24</key>
+<loc>-360 180</loc>
+<group>-28</group>
+</nodeDataArray>
+<nodeDataArray>
+<Name>制定传输标准</Name>
+<Type>&lt;&lt;功能性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>Pentagon</figure>
+<nodeType>target</nodeType>
+<fill>#8FBC8F</fill>
+<stroke>#2E8B57</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-1</key>
+<loc>-470 180</loc>
+<group>-28</group>
+<Operation>undefined</Operation>
+<Object>undefined</Object>
+</nodeDataArray>
+<nodeDataArray>
+<Name>发布标准</Name>
+<Type>&lt;&lt;可操作性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>CreateRequest</figure>
+<nodeType>target</nodeType>
+<fill>#c0d9a2</fill>
+<stroke>#8FBC8F</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-25</key>
+<loc>-520 270</loc>
+<group>-28</group>
+</nodeDataArray>
+<nodeDataArray>
+<Name>修订标准</Name>
+<Type>&lt;&lt;可操作性目标&gt;&gt;</Type>
+<Annotation></Annotation>
+<figure>CreateRequest</figure>
+<nodeType>target</nodeType>
+<fill>#c0d9a2</fill>
+<stroke>#8FBC8F</stroke>
+<strokeWidth>2</strokeWidth>
+<font>10pt Times New Roman</font>
+<isUnderline>false</isUnderline>
+<isStrikethrough>false</isStrikethrough>
+<textAlign>center</textAlign>
+<strokeDashArray /><key>-26</key>
+<loc>-410 270</loc>
+<group>-28</group>
+</nodeDataArray>
+<linkDataArray>
+<from>-41</from>
+<to>-39</to>
+<points>-610</points>
+<points>-291.0208984375</points>
+<points>-610</points>
+<points>-301.0208984375</points>
+<points>-610</points>
+<points>-301.0208984375</points>
+<points>-630</points>
+<points>-301.0208984375</points>
+<points>-630</points>
+<points>-330.63235461750173</points>
+<points>-630</points>
+<points>-340.63235461750173</points>
+</linkDataArray>
+<linkDataArray>
+<from>-42</from>
+<to>-41</to>
+<points>-650</points>
+<points>-186.0208984375</points>
+<points>-650</points>
+<points>-196.0208984375</points>
+<points>-650</points>
+<points>-196.0208984375</points>
+<points>-610</points>
+<points>-196.0208984375</points>
+<points>-610</points>
+<points>-221.13235461750173</points>
+<points>-610</points>
+<points>-231.13235461750173</points>
+</linkDataArray>
+<linkDataArray>
+<from>-43</from>
+<to>-41</to>
+<points>-540</points>
+<points>-185.0208984375</points>
+<points>-540</points>
+<points>-195.0208984375</points>
+<points>-540</points>
+<points>-196</points>
+<points>-537.6666870117188</points>
+<points>-196</points>
+<points>-537.6666870117188</points>
+<points>-198</points>
+<points>-610</points>
+<points>-198</points>
+<points>-610</points>
+<points>-221.13235461750173</points>
+<points>-610</points>
+<points>-231.13235461750173</points>
+</linkDataArray>
+<linkDataArray>
+<from>-18</from>
+<to>-15</to>
+<points>-176</points>
+<points>-211.0208984375</points>
+<points>-176</points>
+<points>-221.0208984375</points>
+<points>-176</points>
+<points>-221.8856435218758</points>
+<points>-179</points>
+<points>-221.8856435218758</points>
+<points>-179</points>
+<points>-222.7503886062516</points>
+<points>-179</points>
+<points>-232.7503886062516</points>
+</linkDataArray>
+<linkDataArray>
+<from>-15</from>
+<to>-14</to>
+<points>-147.37657089932657</points>
+<points>-258.0208984375</points>
+<points>-137.37657089932657</points>
+<points>-258.0208984375</points>
+<points>-137.37657089932657</points>
+<points>-258.0208984375</points>
+<points>-137.37657089932657</points>
+<points>-354.0208984375</points>
+<points>-68.68188960924996</points>
+<points>-354.0208984375</points>
+<points>-58.681889609249964</points>
+<points>-354.0208984375</points>
+</linkDataArray>
+<linkDataArray>
+<from>-16</from>
+<to>-14</to>
+<points>-16</points>
+<points>-295.0208984375</points>
+<points>-16</points>
+<points>-305.0208984375</points>
+<points>-16</points>
+<points>-309.8631010359384</points>
+<points>-16</points>
+<points>-309.8631010359384</points>
+<points>-16</points>
+<points>-314.70530363437683</points>
+<points>-16</points>
+<points>-324.70530363437683</points>
+</linkDataArray>
+<linkDataArray>
+<from>-17</from>
+<to>-14</to>
+<points>122.37657089932655</points>
+<points>-264.0208984375</points>
+<points>112.37657089932655</points>
+<points>-264.0208984375</points>
+<points>112.37657089932655</points>
+<points>-264.0208984375</points>
+<points>112.37657089932655</points>
+<points>-354.0208984375</points>
+<points>36.681889609249964</points>
+<points>-354.0208984375</points>
+<points>26.681889609249964</points>
+<points>-354.0208984375</points>
+</linkDataArray>
+<linkDataArray>
+<from>-19</from>
+<to>-16</to>
+<points>-86</points>
+<points>-211.0208984375</points>
+<points>-86</points>
+<points>-221.0208984375</points>
+<points>-86</points>
+<points>-220</points>
+<points>-86</points>
+<points>-220</points>
+<points>-86</points>
+<points>-228</points>
+<points>-15.999999999999993</points>
+<points>-228</points>
+<points>-15.999999999999993</points>
+<points>-228.7503886062516</points>
+<points>-15.999999999999993</points>
+<points>-238.7503886062516</points>
+</linkDataArray>
+<linkDataArray>
+<from>-20</from>
+<to>-16</to>
+<points>-6</points>
+<points>-211.0208984375</points>
+<points>-6</points>
+<points>-221.0208984375</points>
+<points>-6</points>
+<points>-224.8856435218758</points>
+<points>-15.999999999999993</points>
+<points>-224.8856435218758</points>
+<points>-15.999999999999993</points>
+<points>-228.7503886062516</points>
+<points>-15.999999999999993</points>
+<points>-238.7503886062516</points>
+</linkDataArray>
+<linkDataArray>
+<from>-21</from>
+<to>-16</to>
+<points>40</points>
+<points>-194.0208984375</points>
+<points>30</points>
+<points>-194.0208984375</points>
+<points>28</points>
+<points>-194.0208984375</points>
+<points>28</points>
+<points>-194.0208984375</points>
+<points>36</points>
+<points>-194.0208984375</points>
+<points>36</points>
+<points>-264.0208984375</points>
+<points>25.623429100673434</points>
+<points>-264.0208984375</points>
+<points>15.623429100673434</points>
+<points>-264.0208984375</points>
+</linkDataArray>
+<linkDataArray>
+<from>-22</from>
+<to>-17</to>
+<points>164</points>
+<points>-211.0208984375</points>
+<points>164</points>
+<points>-221.0208984375</points>
+<points>164</points>
+<points>-224.8856435218758</points>
+<points>154</points>
+<points>-224.8856435218758</points>
+<points>154</points>
+<points>-228.7503886062516</points>
+<points>154</points>
+<points>-238.7503886062516</points>
+</linkDataArray>
+<linkDataArray>
+<from>-41</from>
+<to>-23</to>
+<points>-575.3992930700945</points>
+<points>-258.0208984375</points>
+<points>-565.3992930700945</points>
+<points>-258.0208984375</points>
+<points>-564</points>
+<points>-258.0208984375</points>
+<points>-564</points>
+<points>-278.0208984375</points>
+<points>-437.5</points>
+<points>-278.0208984375</points>
+<points>-427.5</points>
+<points>-278.0208984375</points>
+</linkDataArray>
+<linkDataArray>
+<from>-23</from>
+<to>-14</to>
+<points>-372.5</points>
+<points>-278.0208984375</points>
+<points>-362.5</points>
+<points>-278.0208984375</points>
+<points>-364</points>
+<points>-278.0208984375</points>
+<points>-364</points>
+<points>-278.0208984375</points>
+<points>-356</points>
+<points>-278.0208984375</points>
+<points>-356</points>
+<points>-354.0208984375</points>
+<points>-68.68188960924996</points>
+<points>-354.0208984375</points>
+<points>-58.681889609249964</points>
+<points>-354.0208984375</points>
+</linkDataArray>
+<linkDataArray>
+<from>-30</from>
+<to>-29</to>
+<points>-260</points>
+<points>153.9791015625</points>
+<points>-260</points>
+<points>143.9791015625</points>
+<points>-260</points>
+<points>140</points>
+<points>-256</points>
+<points>140</points>
+<points>-256</points>
+<points>105.84510289656095</points>
+<points>-256</points>
+<points>95.84510289656095</points>
+</linkDataArray>
+<linkDataArray>
+<from>-22</from>
+<to>-31</to>
+<points>130</points>
+<points>-194.0208984375</points>
+<points>120</points>
+<points>-194.0208984375</points>
+<points>120</points>
+<points>-194.0208984375</points>
+<points>120</points>
+<points>-68.0208984375</points>
+<points>70.5</points>
+<points>-68.0208984375</points>
+<points>60.5</points>
+<points>-68.0208984375</points>
+</linkDataArray>
+<linkDataArray>
+<from>-31</from>
+<to>-30</to>
+<points>-0.5</points>
+<points>-68.0208984375</points>
+<points>-10.5</points>
+<points>-68.0208984375</points>
+<points>-12</points>
+<points>-68.0208984375</points>
+<points>-12</points>
+<points>171.9791015625</points>
+<points>-215.5</points>
+<points>171.9791015625</points>
+<points>-225.5</points>
+<points>171.9791015625</points>
+</linkDataArray>
+<linkDataArray>
+<from>-3</from>
+<to>-41</to>
+<points>-440</points>
+<points>-185.0208984375</points>
+<points>-440</points>
+<points>-195.0208984375</points>
+<points>-440</points>
+<points>-196</points>
+<points>-610</points>
+<points>-196</points>
+<points>-610</points>
+<points>-215.02089843750002</points>
+<points>-610</points>
+<points>-225.02089843750002</points>
+</linkDataArray>
+<linkDataArray>
+<from>-24</from>
+<to>-29</to>
+<points>-360</points>
+<points>154.9791015625</points>
+<points>-360</points>
+<points>144.9791015625</points>
+<points>-360</points>
+<points>148</points>
+<points>-360</points>
+<points>148</points>
+<points>-360</points>
+<points>140</points>
+<points>-256</points>
+<points>140</points>
+<points>-256</points>
+<points>111.4791015625</points>
+<points>-256</points>
+<points>101.4791015625</points>
+</linkDataArray>
+<linkDataArray>
+<from>-1</from>
+<to>-29</to>
+<points>-470</points>
+<points>147.44968979779412</points>
+<points>-470</points>
+<points>137.44968979779412</points>
+<points>-470</points>
+<points>140</points>
+<points>-256</points>
+<points>140</points>
+<points>-256</points>
+<points>111.4791015625</points>
+<points>-256</points>
+<points>101.4791015625</points>
+</linkDataArray>
+<linkDataArray>
+<from>-26</from>
+<to>-1</to>
+<points>-410</points>
+<points>244.9791015625</points>
+<points>-410</points>
+<points>234.9791015625</points>
+<points>-410</points>
+<points>234.9791015625</points>
+<points>-470</points>
+<points>234.9791015625</points>
+<points>-470</points>
+<points>202.0147955477929</points>
+<points>-470</points>
+<points>192.0147955477929</points>
+</linkDataArray>
+<linkDataArray>
+<from>-25</from>
+<to>-1</to>
+<points>-520</points>
+<points>244.9791015625</points>
+<points>-520</points>
+<points>234.9791015625</points>
+<points>-520</points>
+<points>234.9791015625</points>
+<points>-470</points>
+<points>234.9791015625</points>
+<points>-470</points>
+<points>202.0147955477929</points>
+<points>-470</points>
+<points>192.0147955477929</points>
+</linkDataArray>
+</myData>
